@@ -5,3 +5,5 @@ This is to familiarize myself on how to create, make master, branches and mergin
 * This text is created in branch.
 *
 */
+
+This is the master.
