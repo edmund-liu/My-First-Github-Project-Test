@@ -6,4 +6,3 @@ This is to familiarize myself on how to create, make master, branches and mergin
 *
 */
 
-This is branch 1
